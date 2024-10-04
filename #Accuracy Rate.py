@@ -72,14 +72,14 @@ if not cap.isOpened():
     exit()
 
 # Define your ClickSend API credentials
-username = "adi12345"
-password = "32479DA3-FA60-6329-86C5-4D6EAF89A0D0"
+username =
+password = 
 
 # Base URL for ClickSend API
 base_url = "https://rest.clicksend.com/v3"
 
 # Define your sender ID
-sender_id = "adi12345"
+sender_id = 
 
 # Construct the authentication header
 auth_header = {
